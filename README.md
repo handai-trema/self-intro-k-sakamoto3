@@ -11,7 +11,9 @@
 
 ## リンク
 以下に各課題レポートへのリンクを載せる。
+
 * [課題1-2:スイッチの切断イベント(report1-2.md)](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-2.md)
 * [課題1-3:Hello Trema(report1-3.md)](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-3.md)
 * [課題2-1:Cbenchの高速化](https://github.com/handai-trema/cbench-k-sakamoto3/blob/master/report2-1.md)
 * [課題2-2:複数スイッチ対応](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report2-2.md)
+* [課題4-1:CLIを作ろう](https://github.com/handai-trema/simple-router-k-sakamoto3/blob/master/report4-1.md)
