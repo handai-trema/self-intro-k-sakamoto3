@@ -16,6 +16,6 @@
 * [課題1-3:Hello Trema(report1-3.md)](https://github.com/handai-trema/hello-trema-k-sakamoto3-1/blob/master/report1-3.md)
 * [課題2-1:Cbenchの高速化](https://github.com/handai-trema/cbench-k-sakamoto3/blob/master/report2-1.md)
 * [課題2-2:複数スイッチ対応](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report2-2.md)
-* [課題3-1:パッチパネルの機能拡張](https://github.com/handai-trema/patch-panel-k-sakamoto3/blob/master/report3-1.md)
+* [課題3-1:パッチパネルの機能拡張](https://github.com/handai-trema/patch-panel-k-sakamoto3/blob/develop/report3-1.md)
 * [課題3-2:マルチプルテーブルを読む](https://github.com/handai-trema/learning-switch-k-sakamoto3/blob/master/report3-2.md)
 * [課題4-1:CLIを作ろう](https://github.com/handai-trema/simple-router-k-sakamoto3/blob/master/report4-1.md)
